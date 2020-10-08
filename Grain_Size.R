@@ -28,4 +28,4 @@ c_intv <- t_95 * s_x_bar # the confidence interval for the population mean
 
 x_prime <- tibble(x_bar,c_intv)
 
-print(x_prime) # this tibble shows us a range for the mean in which the population grain size falls with 95 % confidence
+print(x_prime) # this tibble shows us a range for the mean in which the grain size falls with 95 % confidence
